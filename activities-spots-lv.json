@@ -88,9 +88,9 @@
     "hoursNote": "Typically 10:00–18:00; check site."
   },
   {
-    "id": "centra-sporta-kvartals",
-    "name": "Centra sporta kvartāls (Barona)",
-    "type": "Sports Park",
+    "id": "centra-a-kvartals",
+    "name": "Centra a kvartāls (Barona)",
+    "type": "sports",
     "lat": 56.96129,
     "lon": 24.143555,
     "indoor": false,
