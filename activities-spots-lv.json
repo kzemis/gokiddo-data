@@ -43,7 +43,7 @@
     "changing": true,
     "rainSuitable": true,
     "interactions": [
-      "together",
+      
       "child_observe"
     ],
     "interests": [
@@ -72,7 +72,7 @@
     "changing": true,
     "rainSuitable": true,
     "interactions": [
-      "together",
+      
       "child_observe"
     ],
     "interests": [
@@ -102,7 +102,7 @@
     "changing": false,
     "rainSuitable": false,
     "interactions": [
-      "together",
+      
       "child_leads"
     ],
     "interests": [
@@ -131,7 +131,7 @@
     "changing": false,
     "rainSuitable": false,
     "interactions": [
-      "together",
+      
       "child_leads"
     ],
     "interests": [
@@ -160,7 +160,7 @@
     "changing": false,
     "rainSuitable": false,
     "interactions": [
-      "together",
+      
       "child_leads"
     ],
     "interests": [
@@ -303,7 +303,7 @@
     "changing": false,
     "rainSuitable": true,
     "interactions": [
-      "together",
+      "together"
     ],
     "interests": [
       "academic",
@@ -331,7 +331,7 @@
     "changing": false,
     "rainSuitable": true,
     "interactions": [
-      "together",
+      "together"
     ],
     "interests": [
       "academic",
@@ -359,7 +359,7 @@
     "changing": false,
     "rainSuitable": true,
     "interactions": [
-      "together",
+      "together"
     ],
     "interests": [
       "tech",
@@ -387,7 +387,7 @@
     "changing": false,
     "rainSuitable": true,
     "interactions": [
-      "together",
+      "together"
     ],
     "interests": [
       "arts",
@@ -414,7 +414,7 @@
     "changing": false,
     "rainSuitable": true,
     "interactions": [
-      "together",
+      "together"
     ],
     "interests": [
       "arts",
