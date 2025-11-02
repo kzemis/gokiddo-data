@@ -43,7 +43,7 @@
     "changing": true,
     "rainSuitable": true,
     "interactions": [
-      
+      "together",
       "child_observe"
     ],
     "interests": [
@@ -72,7 +72,7 @@
     "changing": true,
     "rainSuitable": true,
     "interactions": [
-      
+      "together",
       "child_observe"
     ],
     "interests": [
@@ -102,7 +102,7 @@
     "changing": false,
     "rainSuitable": false,
     "interactions": [
-      
+      "together",
       "child_leads"
     ],
     "interests": [
@@ -131,7 +131,7 @@
     "changing": false,
     "rainSuitable": false,
     "interactions": [
-      
+      "together",
       "child_leads"
     ],
     "interests": [
@@ -160,7 +160,7 @@
     "changing": false,
     "rainSuitable": false,
     "interactions": [
-      
+      "together",
       "child_leads"
     ],
     "interests": [
@@ -221,6 +221,7 @@
     "rainSuitable": false,
     "interactions": [
       "together",
+      "child_observe"
     ],
     "interests": [
       "social",
@@ -250,6 +251,8 @@
     "rainSuitable": true,
     "interactions": [
       "together",
+      "child_observe",
+      "child_leads"
     ],
     "interests": [
       "arts",
@@ -277,6 +280,7 @@
     "rainSuitable": true,
     "interactions": [
       "together",
+      "child_observe"
     ],
     "interests": [
       "arts",
@@ -303,7 +307,9 @@
     "changing": false,
     "rainSuitable": true,
     "interactions": [
-      "together"
+      "together",
+      "child_observe",
+      "child_leads"
     ],
     "interests": [
       "academic",
@@ -331,7 +337,9 @@
     "changing": false,
     "rainSuitable": true,
     "interactions": [
-      "together"
+      "together",
+      "child_observe",
+      "child_leads"
     ],
     "interests": [
       "academic",
@@ -359,7 +367,8 @@
     "changing": false,
     "rainSuitable": true,
     "interactions": [
-      "together"
+      "together",
+      "child_leads"
     ],
     "interests": [
       "tech",
@@ -387,7 +396,8 @@
     "changing": false,
     "rainSuitable": true,
     "interactions": [
-      "together"
+      "together",
+      "child_leads"
     ],
     "interests": [
       "arts",
@@ -414,7 +424,8 @@
     "changing": false,
     "rainSuitable": true,
     "interactions": [
-      "together"
+      "together",
+      "child_leads"
     ],
     "interests": [
       "arts",
