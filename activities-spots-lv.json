@@ -221,7 +221,6 @@
     "rainSuitable": false,
     "interactions": [
       "together",
-      "child_observe"
     ],
     "interests": [
       "social",
@@ -251,8 +250,6 @@
     "rainSuitable": true,
     "interactions": [
       "together",
-      "child_observe",
-      "child_leads"
     ],
     "interests": [
       "arts",
@@ -280,7 +277,6 @@
     "rainSuitable": true,
     "interactions": [
       "together",
-      "child_observe"
     ],
     "interests": [
       "arts",
@@ -308,8 +304,6 @@
     "rainSuitable": true,
     "interactions": [
       "together",
-      "child_observe",
-      "child_leads"
     ],
     "interests": [
       "academic",
@@ -338,8 +332,6 @@
     "rainSuitable": true,
     "interactions": [
       "together",
-      "child_observe",
-      "child_leads"
     ],
     "interests": [
       "academic",
@@ -368,7 +360,6 @@
     "rainSuitable": true,
     "interactions": [
       "together",
-      "child_leads"
     ],
     "interests": [
       "tech",
@@ -397,7 +388,6 @@
     "rainSuitable": true,
     "interactions": [
       "together",
-      "child_leads"
     ],
     "interests": [
       "arts",
@@ -425,7 +415,6 @@
     "rainSuitable": true,
     "interactions": [
       "together",
-      "child_leads"
     ],
     "interests": [
       "arts",
